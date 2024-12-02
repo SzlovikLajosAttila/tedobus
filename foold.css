@@ -1,0 +1,19 @@
+body{
+    background-color: aqua;
+}
+.cim{
+    background-color: aliceblue;
+    text-align: center;
+}
+.udv{
+    background-color: dodgerblue;
+    color: aliceblue;
+    text-align: center;
+}
+.val{
+    background-color: red;
+    color: aliceblue;
+}
+.lin{
+    background-color:azure;
+}
